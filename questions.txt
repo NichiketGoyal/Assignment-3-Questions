@@ -1,0 +1,19 @@
+1. Consider a singly linked list containing a character as data in each node. Write a program to find if the nodes are in a palindromic sequence.
+
+2. Write a program to sort a singly linked list.
+
+3. Write a program to detect a loop in a singly linked list.
+
+4. Write a program to delete alternate nodes of a doubly linked list.
+
+5. Write a program to merge two sorted singly linked lists.
+
+6. Write a program to remove duplicates from a singly linked list.
+
+7. Write a program to insert elements in a circular linked list and print elements starting from a given data value.
+
+8. Write a program to find the intersection of two sorted singly linked lists.
+
+9. Write a program to clone a doubly linked list.
+
+10. Write a program to rotate a doubly linked list by a given no of rotations.
